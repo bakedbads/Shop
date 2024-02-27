@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@600&family=Quicksand:wght@300&family=Satisfy&display=swap');
+
+
+body {
+    background-color: rgb(255, 249, 241);
+}
+
+header {
+    background-color: #c2a283;
+}
+
+footer {
+    background-color: rgb(240, 230, 218);
+    color: #c2a283;
+}
+
+#headerImg {
+    height: 400px;
+    width: 100%;
+    background-image: url(../img/winter.jpg);
+    background-color: rgb(240, 230, 218);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #c2a283;
+}
+
+h3, h2 {
+    color: #c2a283;
+    font-family: 'Noto Serif', serif;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.container {
+    padding-top: 1rem;
+}
+
+.cheating {
+    color: rgb(255, 249, 241);
+}
+
+button {
+    background-color: #c2a283;
+    color: white;
+    border: none;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(240, 230, 218);
+    color: #c2a283;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+a button {
+    text-decoration: none;
+    color: white !important;
+    font-size: 1.5rem;
+}
+
+a {
+    color: white !important;
+    font-family: 'Quicksand', sans-serif;
+}
+
+a:hover {
+    color:  rgb(240, 230, 218) !important;
+}
